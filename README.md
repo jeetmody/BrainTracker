@@ -1,4 +1,6 @@
-#Using Muse headband to Calculate Concentration
+#Brain Tracker
+Using Muse headband to Calculate Concentration
+
 This was made from scratch at the LA Hacks 2017. The idea was the improve our concentartion. Muse band calculates EEG Values which can be used to separate in 5 bands. Using an already conducted research, the 5 bands can be used to calculate concentration levels. 
 
 This application has 2 stages, that work synchronoulsy. 
